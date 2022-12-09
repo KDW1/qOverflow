@@ -1,6 +1,6 @@
 # qOverflow
 
-### By Gautam Sudarshan Anand Viruthagiri, King-Diorr, Samuel Kaspar and Khushi Kancharla
+### By Gautam Sudarshan Anand Viruthagiri, King-Diorr Willsun, Samuel Kaspar and Khushi Kancharla
 
 a platform where students, volunteers, and members can ask and answer each other's questions, vote on which answers are best, and generally self-moderate.
 
